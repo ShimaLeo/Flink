@@ -1,5 +1,10 @@
 com\atguigu\flink0710\day01\Flink01_batch$1.class
+com\atguigu\flink0710\day02\Flink01_par$1.class
+com\atguigu\flink0710\day02\Flink02_op_chain$1.class
+com\atguigu\flink0710\day02\Flink02_op_chain.class
 com\atguigu\flink0710\day01\Flink01_batch.class
-com\atguigu\flink0710\day01\Flink02_Stream_bound$1.class
 com\atguigu\flink0710\day01\Flink03_Stream_unbound.class
+com\atguigu\flink0710\day02\Flink01_par$2.class
+com\atguigu\flink0710\day02\Flink01_par.class
+com\atguigu\flink0710\day01\Flink02_Stream_bound$1.class
 com\atguigu\flink0710\day01\Flink02_Stream_bound.class
